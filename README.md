@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-base-apparel-coming-soon)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Base Apparel Coming Soon](https://base-apparel-coming-soon-frontend-challenge.netlify.app/)
 
 ## My process
 
